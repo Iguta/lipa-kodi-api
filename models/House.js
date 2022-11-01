@@ -8,4 +8,4 @@ const TenantSchema = mongoose.Schema({
     location:{type:String, required:true}
 });
 
-module.exports = mongoose.model("Tenant", TenantSchema);
+module.exports = mongoose.model("House", TenantSchema);
