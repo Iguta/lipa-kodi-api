@@ -1,0 +1,24 @@
+{
+  "name": "lipa-kodi-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iguta/lipa-kodi-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iguta/lipa-kodi-api/issues"
+  },
+  "homepage": "https://github.com/Iguta/lipa-kodi-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  }
+}
